@@ -1,0 +1,6 @@
+body 
+{padding:0px;margin:0px}
+.first,img
+{padding-left:0px!important}
+.other, img 
+{padding-right:10px;padding-left:10px!important}
